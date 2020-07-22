@@ -18,7 +18,7 @@ require (
 	github.com/hashicorp/vault/api v1.0.5-0.20200215224050-f6547fa8e820
 	github.com/hashicorp/vault/sdk v0.1.14-0.20200215224050-f6547fa8e820
 	github.com/hashicorp/yamux v0.0.0-20181012175058-2f1d1f20f75d // indirect
-	github.com/jcmturner/gokrb5/v8 v8.5.0-20200709204000-265fb9bc47cd
+	github.com/jcmturner/gokrb5/v8 v8.4.1-0.20200709204056-265fb9bc47cd
 	github.com/lib/pq v1.2.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
